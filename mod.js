@@ -1,7 +1,7 @@
 /**
  * @file: mod.js
  * @author mya
- * ver: 1.0.13
+ * ver: 1.0.0
  * update: 2017/08/01
  * https://github.com/fex-team/mod
  */
