@@ -3,7 +3,7 @@
  * @author mya
  * ver: 1.0.0
  * update: 2017/08/01
- * https://github.com/fex-team/mod
+ * https://github.com/mya-org/mod
  */
 
 /* eslint-disable no-unused-vars */
